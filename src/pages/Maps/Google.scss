@@ -1,0 +1,25 @@
+@import '../../styles/app';
+
+
+.tables-basic {
+  .table th {
+    font-size: $font-size-sm;
+  }
+  
+}
+
+
+
+.mapContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100%;
+}
+
+.mapTitle {
+  position: relative;
+  z-index: 2;
+}
